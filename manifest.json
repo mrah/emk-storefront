@@ -2,6 +2,7 @@
   "vendor": "emakinapartnerbe",
   "name": "emk-storefront",
   "version": "0.1.0",
+  "private": true,
   "builders": {
     "styles": "2.x",
     "store": "0.x",
